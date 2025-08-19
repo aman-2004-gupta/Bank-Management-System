@@ -17,6 +17,4 @@ This is a basic C language project that allows users to perform simple banking t
 - Search for particular record based on **name** or **account**
 
 - Transaction (balance enquiry, cash deposit, cash withdrawl)
-## personal
-<a href = "https://github.com/aman-2004-gupta"></a>
 #
