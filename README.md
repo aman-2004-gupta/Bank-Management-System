@@ -1,6 +1,5 @@
 # Bank-Management-System
-A simple implementation of Bank management System in C programming lanaguage completed as a mini project.
-
+This is a basic C language project that allows users to perform simple banking tasks like creating accounts, depositing, withdrawing, and checking balances.
 ## Usage
 
 ```powershell
